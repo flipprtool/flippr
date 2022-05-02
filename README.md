@@ -1,2 +1,2 @@
-# flippr
-Flippr Public Builds
+# Flippr
+Public releases live here!
